@@ -12,5 +12,7 @@
             "email": "recrut2010@gmail.com"
         }
     ],
+    "description": "training project",
+    "license": "MIT",
     "require": {}
 }
